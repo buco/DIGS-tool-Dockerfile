@@ -11,3 +11,5 @@ Dockerfile for DIGS-tool
 6. Run `Rscript result.R` to save the results into a file.
 
 It should work. Now you can/should download your sequences (host, virus) and put them to the right folder according the DIGS description.
+
+If you find any problem, feel free to contact me.
